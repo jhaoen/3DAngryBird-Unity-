@@ -1,0 +1,4 @@
+repository "ComputerGraphicsFinalProject@kevin010411@cloud"
+  path "/"
+    br "/main"
+    co "/main"
